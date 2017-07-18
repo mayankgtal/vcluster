@@ -35,6 +35,7 @@ puts "====================================================="
 Vagrant.configure("2") do |config|
 
   config.vm.box = "bento/ubuntu-14.04"
+  # config.vm.box = "omnibus-ubuntu-14.04"  # Internal USE
   # config.vm.box = "ubuntu/trusty64"
 
   config.omnibus.chef_version = "12.15.19"  
