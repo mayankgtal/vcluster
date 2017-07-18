@@ -42,8 +42,7 @@ vagrant up --provision
 ```
 
 # To test on browser -
-1. Open URL: http://192.168.11.11/sample
-2. Clicking on ThoughtWorks Image would show responses from different backend servers.
+1. Open URL: http://192.168.11.11
 
 ___
 
